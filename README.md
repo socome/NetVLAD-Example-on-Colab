@@ -2,4 +2,4 @@
 
 ## [NetVLAD-pytorch](https://github.com/lyakaap/NetVLAD-pytorch)
 
-NetVLAD Example on colab
+## [Data set download](https://www.dropbox.com/s/4lc3g258l869ti6/NetVLAD_dataset.tgz?dl=0)
