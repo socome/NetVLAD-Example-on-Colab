@@ -10,15 +10,22 @@
 ## Dataset
 
 ### Train : 
-0 : AI Center in Sejong Univ(169장,15장) </br>
-1 : Clock tower in Sejong Univ(98장,15장)</br>
-2 : Children's Grand Park Entrance(160장,17장)</br>
-3 : Sejong university Entrance(89장,33장)</br>
-4 : Sejong university Museum(110,17장)</br>
-5 : stone statue (95장,15장)</br>
+0 : AI Center in Sejong Univ(169) </br>
+1 : Clock tower in Sejong Univ(98)</br>
+2 : Children's Grand Park Entrance(160)</br>
+3 : Sejong university Entrance(89)</br>
+4 : Sejong university Museum(110,1)</br>
+5 : stone statue (95)</br>
 
 ### Test :
 NAVER ROAD VIEW + crawling </br>
+
+0 : AI Center in Sejong Univ(15) </br>
+1 : Clock tower in Sejong Univ(15)</br>
+2 : Children's Grand Park Entrance(17장)</br>
+3 : Sejong university Entrance(33장)</br>
+4 : Sejong university Museum(17장)</br>
+5 : stone statue (15장)</br>
 
 ## Results
 
