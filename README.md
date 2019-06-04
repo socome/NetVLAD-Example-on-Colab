@@ -14,7 +14,7 @@
 1 : Clock tower in Sejong Univ(98)</br>
 2 : Children's Grand Park Entrance(160)</br>
 3 : Sejong university Entrance(89)</br>
-4 : Sejong university Museum(110,1)</br>
+4 : Sejong university Museum(110)</br>
 5 : stone statue (95)</br>
 
 ### Test :
