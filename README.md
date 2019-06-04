@@ -22,10 +22,10 @@ NAVER ROAD VIEW + crawling </br>
 
 0 : AI Center in Sejong Univ(15) </br>
 1 : Clock tower in Sejong Univ(15)</br>
-2 : Children's Grand Park Entrance(17장)</br>
-3 : Sejong university Entrance(33장)</br>
-4 : Sejong university Museum(17장)</br>
-5 : stone statue (15장)</br>
+2 : Children's Grand Park Entrance(17)</br>
+3 : Sejong university Entrance(33)</br>
+4 : Sejong university Museum(17)</br>
+5 : stone statue (15)</br>
 
 ## Results
 
