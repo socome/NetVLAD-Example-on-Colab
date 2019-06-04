@@ -8,6 +8,6 @@ The result of image retrieval based on SejongUniv Landmark dataset
 
 ## Reference
 
-Triplet loss paper [Paper] [code](https://github.com/lyakaap/NetVLAD-pytorch)
+Triplet loss paper [Paper](https://arxiv.org/abs/1503.03832) [code](https://github.com/lyakaap/NetVLAD-pytorch)
 
 Survey of metric learning [Link]
