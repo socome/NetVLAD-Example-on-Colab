@@ -1,4 +1,4 @@
-# NetVLAD-Example-on-Colab
+# [NetVLAD-Example-on-Colab](https://github.com/socome/NetVLAD-Example-on-Colab/blob/master/NetVLAD_manual.ipynb)
 
 ## Description
 
@@ -19,10 +19,6 @@
 
 ### Test :
 NAVER ROAD VIEW + crawling </br>
-
-## How to run on Google Colaboratory
-
-[Colab](https://github.com/socome/NetVLAD-Example-on-Colab/blob/master/NetVLAD_manual.ipynb)
 
 ## Results
 
