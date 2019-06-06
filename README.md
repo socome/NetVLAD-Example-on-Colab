@@ -17,7 +17,7 @@
 4 : Sejong university Museum(110)</br>
 5 : stone statue (108)</br>
 
-### Test : 100
+### Test : 98
 NAVER ROAD VIEW + crawling </br>
 
 0 : AI Center in Sejong Univ(14) </br>
