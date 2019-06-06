@@ -39,6 +39,7 @@ The result of image retrieval based on SejongUniv Landmark dataset
 ## Reference
 
 NetVLAD & Triplet loss code  [[code]](https://github.com/lyakaap/NetVLAD-pytorch)</br>
+Visualization [[code]](https://github.com/kdhht2334/Triplet_loss_for_image_retrieval?fbclid=IwAR2sBMRu6ae7XCMBfotevsttCDQGV5DcUvBLkUOS93izbpXlR7JrRzkJYvc)</br>
 NetVLAD papaer [[Paper]](https://arxiv.org/abs/1511.07247)</br>
 Triplet loss paper [[Paper]](https://arxiv.org/abs/1503.03832)</br>
-Visualization [[Github]](https://github.com/kdhht2334/Triplet_loss_for_image_retrieval?fbclid=IwAR2sBMRu6ae7XCMBfotevsttCDQGV5DcUvBLkUOS93izbpXlR7JrRzkJYvc)
+
