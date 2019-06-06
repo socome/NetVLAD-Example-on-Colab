@@ -1,4 +1,4 @@
-# [NetVLAD-Example-on-Colab](https://github.com/socome/NetVLAD-Example-on-Colab/blob/master/NetVLAD_manual.ipynb)
+# [★Run★ NetVLAD-Example-on-Colab](https://github.com/socome/NetVLAD-Example-on-Colab/blob/master/NetVLAD_manual.ipynb)
 
 ## Description
 
